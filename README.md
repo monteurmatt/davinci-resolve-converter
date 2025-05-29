@@ -109,10 +109,14 @@ Para rodar o **davinci-resolve-converter** em sistemas Linux, você precisará t
    ```bash
    python3 davinci-resolve-converter.py
 
+</br>
+
 💡 Caso sua distribuição use apenas `python` ao invés de `python3`, o comando abaixo também pode funcionar:
   
-    ```bash
-    python davinci-resolve-converter.py
+```bash
+python davinci-resolve-converter.py
+```
+</br>
 
 Ao rodar o comando, a interface gráfica do conversor será aberta, pronta para uso.
 
