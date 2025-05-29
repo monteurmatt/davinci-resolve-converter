@@ -15,6 +15,9 @@ Esse aplicativo foi desenvolvido para resolver problemas comuns de incompatibili
 
 </br>
 
+### App davinci-resolve-converter:  
+![App davinci-resolve-converter](img/converter-app.png)  
+
 ## Pré-requisitos
 
 
