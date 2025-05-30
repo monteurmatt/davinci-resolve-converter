@@ -131,11 +131,13 @@ perfil_menu.pack(side=tk.LEFT, fill=tk.X, expand=True)
 
 # Botão de conversão
 tk.Button(
-    main_frame,
+    root,
     text="Converter para ProRes",
     command=converter,
     bg="#3cb371",
     fg="white",
+    activebackground="#2e8b57",
+    cursor="hand2",
     font=("Arial", 13, "bold"),
     width=21,                    
     height=2
