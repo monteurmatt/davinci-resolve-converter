@@ -94,7 +94,7 @@ root.configure(padx=20, pady=20)
 
 entrada_var = tk.StringVar()
 saida_var = tk.StringVar()
-perfil_var = tk.StringVar(value="Alta (1080p - 422)")
+perfil_var = tk.StringVar(value="Máxima (original - HQ)")
 
 # Frame principal
 main_frame = tk.Frame(root)
