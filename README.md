@@ -38,9 +38,13 @@ Para rodar o **davinci-resolve-converter** em sistemas Linux, você precisará t
     ```bash
     sudo dnf install python3 python3-pip
 
-  - Arch Linux::
+  - Arch Linux:
     ```bash
     sudo pacman -S python python-pip
+
+  - OpenSuse:
+    ```bash
+    sudo zypper install python3 python3-pip
 
 </br>
 </br>
@@ -61,7 +65,13 @@ Para rodar o **davinci-resolve-converter** em sistemas Linux, você precisará t
   - Arch Linux:  
     ```bash
     sudo pacman -S tk
+    ```
+
+  - OpenSuse:  
+    ```bash
+    sudo zypper install python3-tk
     ```  
+
 
 </br>
 </br>
